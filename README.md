@@ -1,5 +1,5 @@
 # Employee-Management-System
-# Employee Management System
+
 
 A Java-based console application designed to manage employee records efficiently using JDBC and MySQL. This project demonstrates Java database connectivity and CRUD operations through a menu-driven interface.
 
